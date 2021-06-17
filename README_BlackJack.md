@@ -1,4 +1,6 @@
 # BLACK JACK  
+Made by myself  
+
 ###NOTES
 Allowed as many players as you like  
 Duplicates cards are allowed 
