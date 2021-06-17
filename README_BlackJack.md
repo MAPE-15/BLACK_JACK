@@ -1,12 +1,12 @@
 # BLACK JACK  
 Made by myself  
 
-###NOTES  
+##NOTES  
 Allowed as many players as you like  
 Duplicates cards are allowed  
 Asking each player for input to hit or fold (quit)  
 
-###RULES  
+##RULES  
 First you give all player names  
 Each player gets first 2 cards to their decks  
 Each player gets to ask to hit or fold  
