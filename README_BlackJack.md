@@ -1,9 +1,9 @@
 # BLACK JACK  
 Made by myself  
 
-###NOTES
+###NOTES  
 Allowed as many players as you like  
-Duplicates cards are allowed 
+Duplicates cards are allowed  
 Asking each player for input to hit or fold (quit)  
 
 ###RULES  
@@ -18,8 +18,3 @@ If you get the sum of cards more than 21, you lose immediately
 
 Game is on until all players have fold, or all lost  
 If some of the players fold, amongs them the winner is who is has the sum of his/her cards closest to 21  
-
-
-
-
-
